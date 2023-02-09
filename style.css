@@ -1,0 +1,28 @@
+#botao
+{
+    width: 20%;
+    color:rgb(127, 255, 202);
+    height:25px;
+    background-color:Black;
+    
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#myselfie
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body
+{
+    background-color:aquamarine;
+    color:black;
+}
